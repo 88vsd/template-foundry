@@ -1,6 +1,8 @@
 {
     "solidity.packageDefaultDependenciesContractsDirectory": "src",
     "solidity.packageDefaultDependenciesDirectory": "lib",
+    "solidity.compileUsingRemoteVersion": "v0.8.17+commit.8df45f5f",
+    "solidity.defaultCompiler": "remote",
     "editor.formatOnSave": true,
     "[solidity]": {
         "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
