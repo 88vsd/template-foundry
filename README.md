@@ -34,7 +34,7 @@ Please install or have installed the following:
 ## Quickstart
 
 ```bash
-git clone https://github.com/88vsd/template-foundry
-cd template-foundry
+forge init <PROJECT_NAME> --template https://github.com/88vsd/template-foundry
+cd <PROJECT_NAME>
 just init
 ```
